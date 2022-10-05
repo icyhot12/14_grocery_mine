@@ -98,3 +98,15 @@ main {
 .single-item-title {
     text-transform: capitalize;
 }
+
+/* clear button */
+
+.clear-button-container {
+    padding-top: 10px;
+}
+
+.clear-btn {
+    font-size: 1.1rem;
+    border: solid 0.5px;
+    border-radius: 5px;
+}
