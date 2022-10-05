@@ -110,3 +110,15 @@ main {
     border: solid 0.5px;
     border-radius: 5px;
 }
+
+@media screen and (min-width: 1000px) {
+    .main-container {
+        width: 30%;
+    }
+}
+
+@media screen and (min-width: 1250px) {
+    .main-container {
+        width: 20%;
+    }
+}
